@@ -1,0 +1,32 @@
+1. Local admin CA12231118
+2. Remote access CA12232716
+3. 
+
+
+
+	1. Shared drive still pending - wait
+	2. confluence 		
+	3. SVN
+	4. confluence link error UAT access - dropped a mail
+
+
+	
+1. lOCAL ADMIN RIGHTS NEW REQUEST  CA12251842
+
+
+
+
+
+inc 251 0261
+
+
+
+
+
+		Links1
+
+1. https://confluence.dts.fm.rbsgrp.net/display/RSERV/Ignite+Platform+Core.  -- Confluence page 
+2. http://slx.web.rbsgrp.net/Content/System/Default.aspx   -- Check raised request status
+3. http://fm-eu-lon-pac.fm.rbsgrp.net:8081/gbm_india.pac   -- Internet setting link
+4. https://confluence.dts.fm.rbsgrp.net/display/RSERV/Home  -- Ignite overview
+
